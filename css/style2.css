@@ -1,0 +1,66 @@
+
+
+#content {
+	float: right;
+    width: 1360px;
+	margin: 5px 0 5px 0;
+	padding: 90px;
+}
+
+#sider{
+    float: left;
+    width: 560px;
+	margin: 50px 0 50px 0;
+	padding: 60px;
+}
+
+#titleBar img {
+	width: 100%;
+}
+
+#menu{
+    background: rgb(97, 97, 97);
+    text-align: center;
+    padding: 0.1px;
+}
+
+#menu li{
+    display:inline;
+    margin: 0 0 0 150px;
+    font-size: 130%;
+
+}
+
+#menu li a{
+    color: #fff;
+    text-decoration: none;
+    background: none;
+
+}
+    
+
+#footer {
+	clear: both;
+	background: rgb(73, 73, 73);
+	padding: 10px;
+    border-top: 2px solid rgb(59, 59, 59);
+	text-align: center;
+	color: rgb(255, 255, 255);
+}
+
+#footer li {
+	display: inline;
+	margin: 3 3 3 3px;
+}
+
+#logo{
+    margin: -200 -200 -10 30px;
+    font-size: 2em;
+    background-image:url('C:\Users\User\Documents\GitHub\2021\images/tokyo.jpg');
+    color: rgb(255, 255, 255);
+}
+
+#content h2 {
+	font-size: 3.5em;
+	margin: -50 5 10px 0;
+}
