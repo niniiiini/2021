@@ -1,0 +1,132 @@
+#header {
+	background-color: #E0EFE4;
+	width: 100%;
+	height: 480px;
+}
+#headerContainer {
+	width: 980px;
+	margin:auto;
+}
+#rightHeader {
+	float: right;
+	width: px;
+}
+#topLink {
+	border-radius: 16px;
+	background-color: #2B8CCC;
+	float: right;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 38px;
+    font-family: Helvetica, sans-serif;
+}
+#logo {
+	float: left;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+#topLink a    {
+	color: #FFFFFF;
+}
+#Nav ul    {
+	list-style-type: none;
+	font-size: 1.2em;
+	color: #5C5A53;
+	font-family: Charlemagne Std;
+}
+#Nav ul li    {
+	float: left;
+	margin-left: 30px;
+	margin-right: 10px;
+}
+#Nav    {
+	float: right;
+	clear: right;
+}
+#headerContainer img {
+	float: right;
+	margin-top: 10px;
+}
+
+#leftheader h1  {
+	text-align: left;
+	color: #2B8BCC;
+	font-family: Charlemagne Std;
+	font-style: normal;
+	font-weight: 400;
+	background-image: url(../images/Line.png);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-size: auto 1px;
+}
+#leftheader {
+	float: left;
+	margin-top: 18px;
+	width: 360px;
+	margin-left: 37px;
+}
+#leftheader h1 .h1Sec2 {
+	color: #EFA656;
+}
+#leftheader p {
+	font-size: 18px;
+    font-family: Helvetica, sans-serif;
+}
+ 
+#mainContainer {
+	background-image: -webkit-linear-gradient(270deg,rgba(0,66,128,1.00) 0%,rgba(61,142,193,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,66,128,1.00) 0%,rgba(61,142,193,1.00) 100%);
+	width: 100%;
+	height: 315px;
+}
+
+#wrapper {
+	width: 980px;
+	margin:auto;
+}
+#wrapper .cms {
+	width: 210px;
+	margin-left: 31px;
+	padding-top: 50px;
+	left: -4px;
+	text-indent: 15px;
+	float: left;
+}
+#wrapper .cms h3 {
+	color: #FFFFFF;
+	text-align: left;
+	text-indent: 14px;
+	padding-top: 21px;
+	font-family: Charlemagne Std;
+	font: size 15px;
+}
+#wrapper .cms img {
+	float: left;
+}
+#wrapper .cms a {
+	background-image: url(../images/RArrow.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	float: left;
+    color: #FFFFFF;
+}
+#wrapper .cms p {
+	clear: both;
+	line-height: 1.2em;
+	padding-top: 10px;
+	font-size: 1em;
+	text-indent: 0px;
+}
+#footer {
+	background-color: #33326A;
+	width: 100%;
+	height: 40px;
+	border-top: 1px solid #FFFFFF;
+	text-align: center;
+}
+#footer p {
+	color: #FFFFFF;
+
+
